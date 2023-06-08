@@ -19,7 +19,7 @@ public class bat {
 		username.sendKeys("Muthu@123");
 		//WebElement password = driver.findElement(By.id("password"));
 		//password.sendKeys("Irene@Admin23");
-		//driver.quit();
+		driver.quit();
 		
 
 	}
